@@ -1,0 +1,9 @@
+## 🧠 Prompts
+
+
+Leonardo AI：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Capa  | Generate the image of a female robot that makes an inspiring and educational podcast about artificial intelligence, chatgpt and entrepreneurship   |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em ia generativa e chatgpt. O título é "Faz e Acontece: Como usar o ChatGPT para transformar suas ideias em ação". O podcast deve ter tom educativo para inspirar as mulheres a usarem a ferramenta porque é fácil. O formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO] {REGRAS} no bloco [INTRODUÇÃO] substitua por uma introdução inspiradora indicando como é fácil usar o chatgpt. no bloco [CURIOSIDADE 1] substitua por uma possibilidade de uso para empreender. no bloco [CURIOSIDADE 2] substitua com dicas sobre produtividade. no bloco [FINALIZAÇÃO] substitua por uma despedida divertida com o final 'Eu sou a Luzita e essa foi a dica da semana'. use termos de fácil explicação. O podcast vai ser apresentado somente por uma pessoa, chamada Luzita. O podcast deve ser curto. {REGRAS NEGATIVAS} Não use muitos termos técnicos. Não ultrapasse 5 minutos de duração|
