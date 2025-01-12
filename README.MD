@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Luzita.jpg"
+    src="./assets/Capcut-cover.jpg"
     width="300"
 />
 </p>
